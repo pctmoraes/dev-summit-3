@@ -8,7 +8,7 @@ import ColorPicker from './components/ColorPicker';
 import Countries from './components/Countries';
 import CountryFilter from './components/CountryFilter';
 
-const COLORS = ['#e67e22', '#2ecc71', '#bdc3c7', '#34495e', '#ecf0f1', '#FFF'];
+const COLORS = ['#e67e22', '#2ecc71', '#bdc3c7', '#34495e', '#ecf0f1', '#FFF', '#9C0BE6'];
 
 export default function App() {
   /**

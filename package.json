@@ -23,6 +23,7 @@
     "tailwindcss": "npm:@tailwindcss/postcss7-compat"
   },
   "scripts": {
+    "start": "react-scripts start",
     "dev": "craco start",
     "build": "craco build",
     "prod:local": "craco build && serve -s build",
